@@ -16,7 +16,7 @@ public class Main_2579 {
         arr = new int[N + 1];
 
         for (int i = 1; i < N; i++) {
-            arr[i] = Integer.parseInt(br.readLine())
+            arr[i] = Integer.parseInt(br.readLine());
         }
 
         dp[0] = arr[0];
