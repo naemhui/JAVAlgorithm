@@ -6,7 +6,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-public class _1977 {
+public class Main_1977 {
     public static void main(String[] args) throws IOException {
         InputStream in = System.in;
         InputStreamReader reader = new InputStreamReader(in);
